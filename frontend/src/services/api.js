@@ -1,11 +1,8 @@
 import { Platform } from 'react-native';
 
-// In Expo Web or local node, localhost works; on Android emulator 10.0.2.2 is used
+// Live Render production backend API URL
 const getBaseUrl = () => {
-  if (Platform.OS === 'android') {
-    return 'http://10.0.2.2:5000/api';
-  }
-  return 'http://localhost:5000/api';
+  return 'https://feedants-backend-vsrm.onrender.com/api';
 };
 
 const BASE_URL = getBaseUrl();
