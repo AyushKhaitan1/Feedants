@@ -3,7 +3,7 @@
 > **Technical Assignment**: Full Stack Development Internship  
 > **Company**: Feedants  
 > **Feature**: Competition Details Screen — Functional Full-Stack Module  
-> **Design Reference**: Based on `Objective_Page.png` ("Feedants Classical Dance")
+> **Design Reference**: Feedants Classical Dance Screen Mockup
 
 ---
 
@@ -89,9 +89,7 @@ feedants-competition/
 │   │       └── CompetitionDetailScreen.js # Master screen layout with pull-to-refresh
 │   ├── App.js
 │   ├── app.json
-│   └── package.json
-│
-├── Objective_Page.png                # Reference design mockup
+├── demo_recording.webp               # Screen recording of working implementation
 └── README.md
 ```
 
