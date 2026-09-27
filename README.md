@@ -15,14 +15,6 @@ The application incorporates strict **atomic concurrency control**, preventing r
 
 ---
 
-## 🎥 Working Demonstration Recording
-
-Below is the screen recording capturing the live interaction across mobile features: bilingual toggle (ENG / हिंदी), live countdown ticker, user persona switching (Registered vs Unregistered), Razorpay checkout simulation, atomic spot increment, video performance submission, and concurrent race-condition simulation:
-
-![Feedants Mobile App Demonstration](./demo_recording.webp)
-
----
-
 ## 🛠 Tech Stack
 
 | Layer | Technology | Description |
