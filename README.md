@@ -89,7 +89,7 @@ feedants-competition/
 │   │       └── CompetitionDetailScreen.js # Master screen layout with pull-to-refresh
 │   ├── App.js
 │   ├── app.json
-├── demo_recording.webp               # Screen recording of working implementation
+│   └── package.json
 └── README.md
 ```
 
