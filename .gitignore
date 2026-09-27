@@ -25,6 +25,7 @@ Thumbs.db
 # Assignment PDF & Reference Images
 *.pdf
 *.webp
+*.zip
 Objective_Page.png
 
 # Agent & Workspace Metadata
