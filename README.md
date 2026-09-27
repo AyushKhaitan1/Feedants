@@ -15,6 +15,17 @@ The application incorporates strict **atomic concurrency control**, preventing r
 
 ---
 
+## 🌐 Live Production Deployments
+
+| Component | Service | Live URL |
+| :--- | :--- | :--- |
+| **Frontend Web App** | Render Static Site | **[https://feedants-fusx.onrender.com](https://feedants-fusx.onrender.com)** |
+| **Backend REST API** | Render Web Service | **[https://feedants-backend-vsrm.onrender.com](https://feedants-backend-vsrm.onrender.com)** |
+| **API Health Check** | Express Monitor | **[https://feedants-backend-vsrm.onrender.com/api/health](https://feedants-backend-vsrm.onrender.com/api/health)** |
+| **Database** | MongoDB Atlas | Cluster0 (Active Cloud Replica Set) |
+
+---
+
 ## 🛠 Tech Stack
 
 | Layer | Technology | Description |
